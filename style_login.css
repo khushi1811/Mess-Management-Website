@@ -1,0 +1,31 @@
+body{
+	background: liner-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5)); 
+	background-image: url(light-grey-terrazzo.png);
+	background-size: 500px 500px;
+    background-position: center;
+}
+ 
+ .login-box{
+ 	 max-width:700px;
+ 	 float: none;
+ 	 margin:100px auto; 
+ }
+
+ .login-left{
+     background: rgba(211, 211, 211, 0.5);
+     padding: 30px;
+ }
+
+ .login-right{
+      background: #fff;
+      padding: 30px ;
+ }
+
+ .form-control{
+ 	background-color: transparent !important;
+ }
+
+ label{
+ 	float:left;
+ 	width:150px;
+ }
